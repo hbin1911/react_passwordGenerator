@@ -59,3 +59,14 @@ button{
     font-size: 20px;
     padding: 20px;
 }
+.error{
+    color: red;
+    padding-bottom: 10px;
+}
+.strength-check{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 12px;
+    color: white;
+}
